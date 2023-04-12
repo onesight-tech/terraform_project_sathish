@@ -1,0 +1,6 @@
+resource_group_name = "rg-dev-resource-eus"
+location = "East US"
+allocation_method = "Static"
+nic_name = "project_nic"
+private_ip_address_allocation = "Dynamic"
+sku = "Standard"
